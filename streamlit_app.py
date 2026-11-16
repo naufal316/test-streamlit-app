@@ -1,6 +1,4 @@
 import streamlit as st
-from metrics import REGIONS, kpis, by_month
-
 REGIONS = ["London", "Manchester", "Birmingham", "Oxford", "Cambridge", "Grimsby"]
 
 
